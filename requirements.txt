@@ -1,0 +1,8 @@
+flask
+tensorflow
+numpy
+pandas
+requests
+pyttsx3
+opencv-python
+googletrans

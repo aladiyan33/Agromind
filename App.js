@@ -1,0 +1,1 @@
+// Placeholder React Native App.js
