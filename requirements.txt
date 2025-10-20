@@ -6,3 +6,5 @@ requests
 pyttsx3
 opencv-python
 googletrans
+flask
+gunicorn
